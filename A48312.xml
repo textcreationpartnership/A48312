@@ -1,0 +1,563 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter (against the erection of an altar) written Iune 29, 1635 to the Reverend Father Iohn L. Bishop of Chester / by Iohn Ley ...</title>
+            <author>Ley, John, 1583-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48312</idno>
+            <idno type="STC">Wing L1881</idno>
+            <idno type="STC">ESTC R21374</idno>
+            <idno type="EEBO-CITATION">12616653</idno>
+            <idno type="OCLC">ocm 12616653</idno>
+            <idno type="VID">64414</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48312)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64414)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 963:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter (against the erection of an altar) written Iune 29, 1635 to the Reverend Father Iohn L. Bishop of Chester / by Iohn Ley ...</title>
+                  <author>Ley, John, 1583-1662.</author>
+               </titleStmt>
+               <extent>[6], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Lathum ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bridgeman, John, 1577-1652.</term>
+               <term>Church of England --  Controversial literature.</term>
+               <term>Altars.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64414:1"/>
+            <pb facs="tcp:64414:1" rendition="simple:additions"/>
+            <p>A LETTER (Againſt the erection of an Altar.)</p>
+            <p>Written <hi>Iune</hi> 29. 1635. to the Reverend Fa<g ref="char:EOLhyphen"/>ther <hi>Iohn</hi> L. Biſhop of <hi>Chester.</hi>
+            </p>
+            <p>BY <hi>IOHN LEY,</hi> Paſtour of Great <hi>Budworth</hi> in <hi>Cheſhire.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>George Lathum,</hi> at the ſigne of the Biſhops head in <hi>Pauls</hi> Church-yard. <hi>Anno Domini</hi> 1641.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:64414:2"/>
+            <pb facs="tcp:64414:2"/>
+            <head>TO THE RIGHT WORSHIPFUL, AND WORTHILY HONOURED Gentleman, PHILIP MAINWARING, ESQUIRE.</head>
+            <opener>
+               <salute>RIGHT WORTHY SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His ſhort diſcourſe enſu<g ref="char:EOLhyphen"/>ing (though long enough I hope to reſolve the Queſtion propoſed) is Yours by right of Dedi<g ref="char:EOLhyphen"/>cation (now it is publick) ſince it was Yours before by cauſality of production (as a private manuſcript) for your letter to your Reverend <g ref="char:V">Ʋ</g>ncle (my honoured
+<pb facs="tcp:64414:3"/>Friend) and his to me, have been unto it, as a Grandfather and father, from whoſe motion and ſollicitation it is lineally deſcen<g ref="char:EOLhyphen"/>ded. Accept it then (good <hi>Sir</hi>) as your owne: and me with it, whom Your imma<g ref="char:EOLhyphen"/>nent merit in your ſelf, and tranſient benig<g ref="char:EOLhyphen"/>nity to me, have long and deeply obliged to remaine</p>
+            <closer>
+               <signed>
+                  <hi>Yours, to love, and ſerve</hi> You, <hi>with affection and fidelity. JOHN LEY.</hi>
+               </signed>
+               <dateline>
+                  <hi>From my lodging at the Fountaine in S.</hi> Pauls <hi>Church-yard.</hi> 
+                  <date>Febr. <hi>24. 1640.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:64414:3"/>
+            <head>To the Right Honoura<g ref="char:EOLhyphen"/>ble ROBERT Lord Viſcount KILLMURREY my very worthy and much honoured Lord.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is not without example (which for the preſent I ſhall follow as a patterne) to dedicate to <hi>one</hi> a Letter written to <hi>another,
+<note place="margin">Biſhop <hi>Hall</hi> wrote an E<g ref="char:EOLhyphen"/>piſtle to Mr. <hi>I. B.</hi> and dedi<g ref="char:EOLhyphen"/>cated it to his Father, <hi>Decad.</hi> 1. <hi>Epi.</hi> 10. <hi>pag.</hi> 266. He wrote ano<g ref="char:EOLhyphen"/>ther to <hi>W. E.</hi> which he dedi<g ref="char:EOLhyphen"/>cated to M. <hi>Ro<g ref="char:EOLhyphen"/>bert Iermin Dec.</hi> 4. <hi>Ep.</hi> 2. <hi>p.</hi> 308. Another to M. <hi>T. S.</hi> and dedi<g ref="char:EOLhyphen"/>cated it to Sir <hi>Fulk Grevell Dec.</hi> 6. <hi>Epi.</hi> 2. <hi>p.</hi> 349.</note> occa<g ref="char:EOLhyphen"/>ſion</hi> and <hi>affection,</hi> diverſly inducing a di<g ref="char:EOLhyphen"/>verſe inſcription: <hi>That</hi> directed me to write unto the Biſhop, <hi>This</hi> to give your Lord<g ref="char:EOLhyphen"/>ſhip a title in the Publication of that I have written, as in acknowledgement of your an<g ref="char:EOLhyphen"/>cient and conſtant kindneſſe to me, neither cooled by age or interpoſition of time or place, nor laid aſide with your honours, (which are wont to change manners) nor re<g ref="char:EOLhyphen"/>quiring more obſervances of me, than my manifold imployments would permit, nor
+<pb facs="tcp:64414:4"/>excepting againſt mine omiſions of atten<g ref="char:EOLhyphen"/>dance on your honour, (your wiſdome and goodneſſe truly and charitably interpreting them, rather as conformities to my calling, than as ſignes of ſlighting, or ingratitude.) To all this your Honour hath lately added a favour (which the leſſe I thought of it be<g ref="char:EOLhyphen"/>fore hand, the more I am bound for ever to remember it) in being ſo mindfull of the mending of my condition as to name me in a Petition to the high Court of Parliament, as worthy of better recompence of my paines, and coſt in my paſtorall charge than hitherto I have received.</p>
+            <p>Thus (my good Lord) while I am at grea<g ref="char:EOLhyphen"/>teſt diſtance from you, you have drawn my devotions neerer to you, and have cheriſhed them to a greater vigour of deſire and in<g ref="char:EOLhyphen"/>deavour to bee</p>
+            <closer>
+               <signed>as really as affectionately your Lordſhips humble Servant IOHN LEY.</signed>
+               <dateline>From my lodging at the <hi>Fountaine</hi> in <hi>Pauls</hi> Church-yard <date>
+                     <hi>Feb.</hi> 13. 1640.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:64414:4"/>
+            <head>A LETTER (Againſt the erection of an ALTAR.)</head>
+            <head type="sub">Written <hi>Iune</hi> 29. 1635. to the Reve<g ref="char:EOLhyphen"/>rend Father <hi>Iohn</hi> L. Biſhop of <hi>Cheſter.</hi>
+            </head>
+            <byline>BY <hi>IOHN LEY,</hi> Paſtour of Great <hi>Budworth</hi> in <hi>Cheſhire.</hi>
+            </byline>
+            <opener>
+               <salute>Right Reverend, and my very good Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Mong the many things for which bad men evie ſuch as are of emi<g ref="char:EOLhyphen"/>nent eſtate, there is one (of ſpe<g ref="char:EOLhyphen"/>ciall note) for which good men pity them: and it is, that they have many who ſeeke to ſerve themſelves with their favour, and by flattery hope to finde what they ſeek; and very few who ſincerely ſet their obſervances of them,
+<pb n="2" facs="tcp:64414:5"/>towards their intereſts, without a ſquint-eyd aſpect to their own ends.</p>
+            <p>Of whether ſort I have beene (among thoſe that profeſſe themſelves devoted to your Lordſhip) I appeale to your experience of me, for the beſt part of twenty yeeres time, wherein you have gi<g ref="char:EOLhyphen"/>ven me occaſion very often to acknowledge unto others (as a part of your good nature, and my good hap) that while my conſcience hath directed me freely to ſpeake, your goodneſſe (as an inſtance of
+<note n="a" place="margin">Nulli patien<g ref="char:EOLhyphen"/>tiùs reprehen<g ref="char:EOLhyphen"/>duntur, quam qui maximè laudem me<g ref="char:EOLhyphen"/>rentur. <hi>Plin. ep. Trajan. lib.</hi> 7. <hi>p.</hi> 234.</note> 
+               <hi>Plinie</hi> his obſervation) hath diſpoſed you pati<g ref="char:EOLhyphen"/>tiently to heare me, and to value my ſpeech by the juſtneſſe of my cauſe, and validity of my reaſons, rather than by the diſparity of your parts, and place, which give you great advantage over me, both for gainſaying and prevailing.</p>
+            <p>It was the confidence which I had in
+<note n="b" place="margin">
+                  <hi>He that re<g ref="char:EOLhyphen"/>buketh a man, afterwards ſhall finde more fa<g ref="char:EOLhyphen"/>vour, than he that flattereth with the tongue,</hi> Pro. 28.23.</note> 
+               <hi>Solomons</hi> propheticall promiſe, for the finall acceptation of faithfull offices, which made me at the firſt more bold with your Lordſhip, than many others have beene; and ſince I have found by the Succeſſe of mine upright intentions, in treaties with you, that I have not therein beene more bold with you, than welcome to you; I cannot but take heart to goe on, as any occaſion of moment is preſented unto me.</p>
+            <p>And now, my Lord, there is one of great (and as ſome would rather ſtile it of a <hi>maſsie</hi>) weight, which hath occaſioned much diſcourſe, and many cenſures; (though your Lordſhip, whom they moſt concerne, be like to heare the leaſt of them) it is that new Structure of ſtone at the upper
+<pb n="3" facs="tcp:64414:5"/>end of the old Conſiſtorie, which Papiſts talke of as of an <hi>Altar,</hi> whereupon they exalt their hopes of re-edification of their Babel among us. It was one of them, from
+<note n="c" place="margin">Maſter <hi>R.W.</hi> about Iune 18. 1635.</note> whom, being at <hi>Budworth,</hi> I had the firſt notice <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f that newes; which I told him I would not beleeve: for it ſeemed to mee more ſtrange than true, that a Papiſt, dwelling at leaſt foureteene miles from <hi>Cheſter,</hi> and comming thither ſeldome, ſhould know better what was done in the Cathedrall, than I the Sub-deane of the Church, who was there
+<note n="d" place="margin">By occaſion of my weekly Lectures upon Fridaies at Saint <hi>Peters.</hi>
+               </note> almoſt every weeke throughout the whole yeere.</p>
+            <p>And I could not thinke (it is ſo
+<note n="e" place="margin">Three yards and about an halfe in length, a yard high. and a yard broad.</note> great) that it grew up (like
+<note n="f" place="margin">
+                  <hi>Ion.</hi> 4.10.</note> 
+               <hi>Ionahs Gourd</hi>) <hi>in a night,</hi> or that it was ſet up, as the Temple of <hi>Solomon</hi> was ſet together, without
+<note n="g" place="margin">1 <hi>Kin.</hi> 6.7.</note> 
+               <hi>all noiſe of axe, or hammer, or inſtrument of iron.</hi>
+            </p>
+            <p>But at my next comming to <hi>Cheſter,</hi> I ſaw hee had but too much, and too ſolid ground for his re<g ref="char:EOLhyphen"/>port, and yet to abate from his rejoycing at the matter, I told
+<note n="h" place="margin">He was my Pariſhioner, and according to the 66. Canon, I had often conference with him, in hope to win him, as I have done his brother ſince.</note> him when we met a<g ref="char:EOLhyphen"/>gaine (as I had heard by ſome) that it was a funerall monument of Saint <hi>Warburghs</hi> buriall in that place, which was anciently called by the name of her Chappell: with this (for that time) I interred his triumph under a Tombſtone, which he had ſet up as incenſe on an <hi>Altar.</hi>
+            </p>
+            <p>But when others (ſeriouſly obſerving the matter, and forme, and ſcituation of it) compared all with your purpoſe of employment of the place to
+<pb n="4" facs="tcp:64414:6"/>religious uſes (as they had heard) and thereupon ſuſpected therein at leaſt a propenſion to Popery; and ſome ſaid (as I was told to my face) that though your Lordſhip (as Biſhop) were the Author, I (as Sub-deane) was ſome way an Actor or approver of that, which was ſo great an eye-ſore unto ma<g ref="char:EOLhyphen"/>ny good people. I was much perplexed what an<g ref="char:EOLhyphen"/>ſwer to make them, though rather for you, than for my ſelfe.</p>
+            <p>Yet for you my Lord, I ſaid (in termes of aſſe<g ref="char:EOLhyphen"/>veration and aſſurance) that I had knowne you long and (as you were pleaſed in one of your letters to me to ſay) throughly, and yet I could never ob<g ref="char:EOLhyphen"/>ſerve any thing in you, which might induce me to doubt of your liking of a Communion Table, a<g ref="char:EOLhyphen"/>bove an <hi>Altar,</hi> or of your diſlike of popiſh either building of <hi>Altars,</hi> or bowing to <hi>Altars.</hi> And I could have ſaid ſomewhat more to have made them wholly of my minde, touching your Lordſhips meaning that way, but that I would not make uſe of any of your ſecrets (without your leave) though for your defence.</p>
+            <p>But for my ſelfe, mine anſwer was, that if I had had any notice of ſuch an alteration before-hand, (and you have ſometimes accompted the Deane and Chapter, <hi>à conſiliis</hi> to the Biſhop) I ſhould have done my beſt endeavour to diſſwade you from it, by ſome ſuch reaſons as theſe that fol<g ref="char:EOLhyphen"/>low.</p>
+            <p>Firſt,
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> becauſe <hi>Altars</hi> were at firſt ordained by God, and erected by men, for ſuch ſervices as cea<g ref="char:EOLhyphen"/>ſed with the Pedagogie of the Jewiſh Religion, and
+<pb n="5" facs="tcp:64414:6"/>that was chiefly for ſacrifices, typifying or fore<g ref="char:EOLhyphen"/>ſhadowing Chriſt to come.</p>
+            <p>Secondly,
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> becauſe Chriſt inſtituting the me<g ref="char:EOLhyphen"/>moriall of his death for the Chriſtian Church, made no uſe of an <hi>Altar</hi> (as being after his depar<g ref="char:EOLhyphen"/>ture no more to be ſacrificed either typically or really) but of a Table. So did the Apoſtles and the Primitive Church in the pureſt times, againſt whom ſome Heathens objected, as wee finde in
+<note n="f" place="margin">So did <hi>Cecilius</hi> obiect, as <hi>Mi<g ref="char:EOLhyphen"/>nutius Felix</hi> brings him in in his Dialogue, intituled, <hi>Octavius.</hi> And ſo did <hi>Celſus,</hi> as <hi>Origen</hi> no<g ref="char:EOLhyphen"/>teth, <hi>contra Celſ. l.</hi> 8. <hi>Tom.</hi> 2. <hi>p.</hi> 794.</note> 
+               <hi>Minutius Felix</hi> and <hi>Origen,</hi> that they had neither Temples, nor <hi>Altars,</hi> nor Images; which place we muſt under<g ref="char:EOLhyphen"/>ſtand with limitation and difference: for before their time, the Chriſtians had
+<note n="*" place="margin">1 <hi>Cor.</hi> 11.22. <hi>Aug. queſt.</hi> 57. <hi>in Levit.</hi>
+               </note> places appropriate to Religious worſhip (which now are called Temples, Churches, Chap<g ref="char:EOLhyphen"/>pels) though not alwayes ſo publick, that the Hea<g ref="char:EOLhyphen"/>thens could know them, <hi>nor at any time ſuch,</hi> as they conceived: (for they took a Temple for a place wherein a Demon was incloſed, as they beleeved;) <hi>nor ſuch</hi> as <hi>Bellarmine</hi> fanſied, when hee defined a <hi>Temple</hi> to be
+<note n="“" place="margin">
+                  <hi>Bel. l.</hi> 3. <hi>c.</hi> 4. <hi>de cultu Sancto<g ref="char:EOLhyphen"/>rum.</hi>
+               </note> 
+               <hi>nothing elſe but the place of an Altar.</hi> Wee muſt take it then in the Teſtimony fore<g ref="char:EOLhyphen"/>alledged, that a Temple was not ſimply denied to the Chriſtians in thoſe ancient times, but a Tem<g ref="char:EOLhyphen"/>ple under ſuch a particular ſenſe and notion as hath beene noted.</p>
+            <p>But for <hi>Altars</hi> and Images (in a literall and pro<g ref="char:EOLhyphen"/>per acception) their originall and uſe (for Chriſti<g ref="char:EOLhyphen"/>an Churches) are to be referred to younger times. So that for <hi>Altars</hi> (which for the preſent apper<g ref="char:EOLhyphen"/>taine to our eſpeciall obſervation) we may well ſay
+<pb n="6" facs="tcp:64414:7"/>with Biſhop
+<note n="g" place="margin">
+                  <hi>Bp.</hi> Iewell <hi>defenſ. of the A<g ref="char:EOLhyphen"/>pol. part</hi> 2. <hi>pag.</hi> 315.</note> 
+               <hi>Iewell,</hi> that the ſetting up of them is a Noveltie in our Evangelicall Religion, where<g ref="char:EOLhyphen"/>as Communion Tables are ancient, and have beene uſed from the firſt inſtitution of the Sacra<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Some Papiſts ſay the contrary, upon confidence of that of the Apoſtle, <hi>Heb.</hi> 13.10. <hi>We haue an Altar. &amp;c.</hi> But that, as
+<note n="h" place="margin">Inepti ſunt qui hinc Altaria lapidea, vel lignea, in Templis Chriſtianorum requirunt. <hi>Par. in Heb.</hi> 13.10. <hi>p.</hi> 550.</note> 
+               <hi>Pa<g ref="char:EOLhyphen"/>raeus</hi> ſheweth, is a fooliſh proofe, and it ſeemeth by
+<note n="i" place="margin">Habemus Altare, <hi>Heb.</hi> 13 — quia non deſunt ex Catholicis qui co loco per Altare intelli<g ref="char:EOLhyphen"/>gunt crucem, aut ipſum Chri<g ref="char:EOLhyphen"/>ſtum, non urgeo. <hi>Bel. de miſſa lib.</hi> 1. <hi>c.</hi> 45. <hi>Tom</hi> 3. <hi>pag.</hi> 327.</note> 
+               <hi>Bellarmine,</hi> that him<g ref="char:EOLhyphen"/>ſelfe, and other Papiſts of good ac<g ref="char:EOLhyphen"/>compt with him (he may meane
+<note n="k" place="margin">Per Altare ſignificatur Chri<g ref="char:EOLhyphen"/>ſtus, de quo dicit Apoſtolus, <hi>Heb. ult. Aquin. part.</hi> 3. <hi>qu.</hi> 83. <hi>art</hi> 3. <hi>ad</hi> 2.</note> 
+               <hi>A<g ref="char:EOLhyphen"/>quinas</hi> for one) thought little better of it, and therefore he profeſſeth not to urge it to that purpoſe: yet hee holds <hi>Altars</hi> to be very ancient, and pleads for their antiquity (againſt an Here<g ref="char:EOLhyphen"/>tick (as hee calls him) who accuſed them of Novelty) by an
+<note n="l" place="margin">
+                  <hi>Bellar de verb. Dei nonſcript. l</hi> 4. <hi>ch.</hi> 22. <hi>Tom</hi> 1. <hi>p.</hi> 83. <hi>col.</hi> 1. <hi>init.</hi>
+               </note> Inſcription in an old <hi>Altar;</hi> but how old the date of it was,
+<note n="m" place="margin">Ni fallor aliquot centurias annorum ante illud tempus quo dixerat Hereticus Altaria in<g ref="char:EOLhyphen"/>cepiſſe. <hi>Ibid.</hi>
+               </note> he could not tell.
+<note n="n" place="margin">
+                  <hi>Brerely of the Maſſe, Tract.</hi> 1. <hi>Sect.</hi> 2. <hi>lib.</hi> 2. <hi>pag</hi> 65.</note> 
+               <hi>Brerely</hi> out of <hi>Pretorius</hi> refers the originall of <hi>Altars</hi> among Chriſtians, for the Au<g ref="char:EOLhyphen"/>thor, to <hi>Sixtus</hi> the ſecond; and for the age, to the yeare 262. then, ſaid hee, did <hi>Sixtus</hi> the ſecond abrogate Tables, hitherto in uſe, and ſet up <hi>Al<g ref="char:EOLhyphen"/>tars.</hi>
+            </p>
+            <p>But it is not probable, that ſo good a man, and a Martyr, as he was, having but a ſhort and a trou<g ref="char:EOLhyphen"/>bleſome time of his Biſhoprick (which laſted not full three yeeres) would be Author of ſuch an al<g ref="char:EOLhyphen"/>teration and defection from the forme and uſe of
+<pb n="7" facs="tcp:64414:7"/>the Primitive Church to his time; and that it was not ſo either ordained, or not ſo received by the Churches, will be manifeſt by the anſwer to <hi>Bellarmines</hi> teſtimonies for the antiquity of <hi>Altars,</hi> out of ancient Authors; of which he ſaith firſt in generall,
+<note n="o" place="margin">Nullus fere veterum, qui non memine<g ref="char:EOLhyphen"/>rit Altaris Ec<g ref="char:EOLhyphen"/>cleſiae. <hi>Bel. de cultu Sanct. l.</hi> 3. <hi>c.</hi> 4. <hi>Tom.</hi> 2. <hi>pag.</hi> 341. <hi>col.</hi> 2.</note> There is ſcarce any of them which makes not mention of the <hi>Altar;</hi> and then he names the Canons of the Apoſtles, <hi>Dionyſ. A<g ref="char:EOLhyphen"/>reopagita, Irenaeus, Athanaſius, Tertullian, Optatus,</hi> and <hi>Hier<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m,</hi> and <hi>Auguſtine;</hi> this in his book of the worſhipping of Saints. And in his booke of the
+<note n="p" place="margin">
+                  <hi>Bel. l.</hi> 1. <hi>c.</hi> 16. <hi>de Miſſa. Tom.</hi> 3 <hi>p.</hi> 332 <hi>col.</hi> 1.</note> Maſſe he addeth, <hi>Cyprian, Gregorie Nazianzen,</hi> and <hi>Gregory Nyſſen, Chryſoſtome</hi> and <hi>Ambroſe.</hi>
+            </p>
+            <p>But of theſe, ſome be ſuppoſitious proofes, as that out of the Canons of the Apoſtles, and <hi>Dio<g ref="char:EOLhyphen"/>nyſ. Areopagita:</hi> ſome though legitimate, as <hi>Iu<g ref="char:EOLhyphen"/>ſtine, Irenaeus, Tertullian,</hi> and <hi>Cyprian,</hi> albeit they ſpeake of <hi>Altars</hi> (as <hi>Tertullian de poenitentia,</hi> where he obſerveth
+<note n="q" place="margin">Aris Dei ad geniculari. <hi>Tertul. de poenit. c.</hi> 9. <hi>Tom.</hi> 2 <hi>p.</hi> 46.</note> kneeling at the <hi>Altar</hi> as a part of the Penitents practice) we muſt not underſtand them but of Communion Tables, not of <hi>Altars,</hi> in a proper acception.</p>
+            <p>And though
+<note n="r" place="margin">
+                  <hi>Bel de Miſſa, lib.</hi> 1. <hi>c.</hi> 16 <hi>p.</hi> 332. <hi>col.</hi> 2.</note> 
+               <hi>Bellarmine</hi> would ſhift off the fore<g ref="char:EOLhyphen"/>cited ſaying of <hi>Minutius Felix,</hi> by pretence of the privacie of the Chriſtian profeſſion, as though they had <hi>Altars,</hi> but privately, out of the ſight of the Heathens: yet it is plain by <hi>Origen,</hi> who flou<g ref="char:EOLhyphen"/>riſhed not long before <hi>Minutius,</hi> in his anſwer to <hi>Celſus,</hi>
+               <note n="ſ" place="margin">Pro Aris nobis eſſe mentem ſuam cuique ex qua <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urſum feruntur, vere ac infalli<g ref="char:EOLhyphen"/>biliter ſuaveolentis ſuffitus preces è pura conſcientia. <hi>Orig contra Celſ. lib.</hi> 8. <hi>Tom.</hi> 2. <hi>pag.</hi> 794.</note> that the Chriſtians had neither <hi>Altars,</hi> nor Ima<g ref="char:EOLhyphen"/>ges: <hi>For Altars</hi> which belong to our preſent purpoſe) ſaith
+<pb n="8" facs="tcp:64414:8"/>he, <hi>our minde ſerves turne, from which are ſent up the ſweet incenſe of prayers, out of a pure conſcience.</hi> Since Chriſtians had Temples, the Authors that mention <hi>Altars,</hi> are <hi>Optatus, Ambroſe, Athanaſius,</hi> the two <hi>Gregories, Chryſoſtome, Hierom,</hi> and <hi>Auguſtine.</hi> They are to be underſtood, not of an <hi>Altar</hi> pro<g ref="char:EOLhyphen"/>perly, but of a communion Table, as may appeare by
+<note n="u" place="margin">Quis fidelium neſcit in peragendis my<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eriis ipſa ligna linteamine cooperiri. <hi>Op<g ref="char:EOLhyphen"/>tat. adverſ. Parmen. l.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>pag.</hi> 166.</note> 
+               <hi>Optatus,
+<note n="w" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Euſeb. lib</hi> 1. <hi>Demonſtr Evangel.</hi>
+                  </note> Euſebius,</hi> and
+<note n="x" place="margin">Lignis Altaris ejuſdem effractis im<g ref="char:EOLhyphen"/>maniter cecide<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unt, &amp;c. <hi>Aug. ep.</hi> 50. <hi>Bo<g ref="char:EOLhyphen"/>nif. Tom.</hi> 2. <hi>pag.</hi> 248.</note> 
+               <hi>Auguſtine:</hi> which, as for the matter of it, it was not made of ſtone, but of wood; ſo, for the ſite of it, it was not ſet in the end of the Chancell, but in the middle, at leaſt ſo as it might be removed, and ſo placed at the Commu<g ref="char:EOLhyphen"/>nion, that the people might come round about it, as Biſhop
+<note n="y" place="margin">
+                  <hi>B. Jewel in his third Article p.</hi> 145.</note> 
+               <hi>Iewel</hi> obſerveth againſt Doctor <hi>Har<g ref="char:EOLhyphen"/>ding,</hi> and
+<note n="z" place="margin">
+                  <hi>B. Morton of the Sacrament, l.</hi> 6. <hi>p.</hi> 50. <hi>marg.</hi>
+               </note> Biſhop <hi>Morton</hi> in his late learned book of the Sacrament of the Lords Supper.</p>
+            <p>And though <hi>Bellarmine</hi> brag of the antiquity of <hi>Altars,</hi> yet (as ſecretly confeſſing the ſeniority of woodden Tables before them) he is faine to ſay, he inſiſts not in his diſputation upon the <hi>Altar</hi> of
+<note n="a" place="margin">Non diſputamus de Altari lapideo, ſed id <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mne vocamus Altare, ubi recipitur victima per verba conſecrationis effe<g ref="char:EOLhyphen"/>cta. <hi>Bel. de Miſſa, lib.</hi> 1. <hi>cap.</hi> 27. <hi>Tom.</hi> 3. <hi>p.</hi> 341.</note> Stone, but calls that (whatſoever it be) an <hi>Altar</hi> whereon the Sacrifice (ſuch as he and others, beleeving the myſterie of iniquity, doe imagine) is made by the words of conſecration. And as I doubt not but a Table may be made of ſtone, ſo an <hi>Altar</hi> may be made of
+<note n="b" place="margin">Altaria lapidea, vel lignea, in Templis Chriſtianorum re<g ref="char:EOLhyphen"/>quirunt. <hi>Paraeus in Ep. ad Heb. c.</hi> 13, <hi>ver.</hi> 10. <hi>p.</hi> 554.</note> wood (and for that there was a particular ordinance, <hi>Exod.</hi> 27.1.
+<pb n="9" facs="tcp:64414:8"/>
+               <hi>that it ſhould be made of Shitim wood, overlayd with braſſe;</hi>) and it may be moveable too, as a Table, yea, as a Trencher, though it be of ſtone. For the Papiſts have their
+<note n="c" place="margin">
+                  <hi>Aquin. artp</hi> 3. <hi>qu</hi> 83. <hi>art.</hi> 3. <hi>ad</hi> 2. Altare portati<g ref="char:EOLhyphen"/>le Papiſtarum, <hi>Chamier. Tom.</hi> 4. <hi>lib.</hi> 7. <hi>c.</hi> 13. <hi>p.</hi> 387</note> portable <hi>Altars,</hi> made of a piece of a ſlate ſtone, light and little, for commodious carriage from place to place, as they pleaſe. But the <hi>Altars</hi> which give the ſtrongeſt ſupport to their ſu<g ref="char:EOLhyphen"/>perſtition, are ſtonie &amp; fixed fabricks, which when<g ref="char:EOLhyphen"/>ſoever they began (for the time is uncertaine) are moſt in uſe in the Popiſh Churches, and required as neceſſary by Popiſh Doctors to be of ſtone (elſe
+<note n="d" place="margin">
+                  <hi>Durand. ra<g ref="char:EOLhyphen"/>tional divin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r. l.</hi> 1. <hi>c</hi> 7. <hi>nu.</hi> 28. <hi>f.</hi> 35. b.</note> they may not be conſecrated) as ſignifying Chriſt the Rock, and his reſting in a ſtony Sepul<g ref="char:EOLhyphen"/>chre: and for the upper part of it, it muſt be of one intire ſtone. All this is the determination of
+<note n="c" place="margin">
+                  <hi>Aquin. part</hi> 3 <hi>qu.</hi> 83 <hi>art.</hi> 3. <hi>ad</hi> 5</note> 
+               <hi>Aquinas,</hi> to whoſe writings
+<note n="f" place="margin">
+                  <hi>Aug. Hunni<g ref="char:EOLhyphen"/>us in ep. ded Pio Quinto praefixa operibus Aqui<g ref="char:EOLhyphen"/>nat. edit. Plant. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an.</hi> 1569.</note> Pope <hi>Innocent</hi> gave the firſt place, after the Canon of the Scrip<g ref="char:EOLhyphen"/>ture.</p>
+            <p>Againſt theſe our third Reaſon may be;
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> the dan<g ref="char:EOLhyphen"/>ger of depravation, and corruption of the doctrine of the Church, by changing the Chriſtian Sacra<g ref="char:EOLhyphen"/>ment into a Popiſh Sacrifice: for from literall and reall <hi>Altars</hi> (properly ſo called) <hi>Bellarmine</hi> and <hi>Brerely</hi> inferre a litterall and a reall Sacrifice. <hi>The name of an</hi> Altar <hi>in Greeke and Hebrew</hi> (ſaith
+<note n="g" place="margin">Nomen Altaris Sacrificium innuit Graecè &amp; Latiné: <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>el. de Miſſa lib.</hi> 1. <hi>c.</hi> 2. <hi>Tom.</hi> 3. <hi>pag.</hi> 307. <hi>col.</hi> 2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Bellarmine</hi>) <hi>doth intimate a Sacrifice.</hi> Item,
+<note n="h" place="margin">Altaria non conſu eviſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> erigi, niſi ob ſacri<g ref="char:EOLhyphen"/>ficium propriè dictum: <hi>Bel. de Miſſa lib.</hi> 1. <hi>c.</hi> 16. <hi>ſag.</hi> 332. <hi>col.</hi> 1.</note> 
+               <hi>Altars are not uſed to be ſet up, but for Sacrifice, properly ſo cal<g ref="char:EOLhyphen"/>led.</hi> Againe (ſaith he)
+<note n="i" place="margin">Altare propriè dictum, non erigicur, niſi ad Sacrificium propriè dictum: <hi>Bel. ibid. lib.</hi> 1. <hi>c.</hi> 14. <hi>p.</hi> 327. <hi>col.</hi> 1.</note> 
+               <hi>Al<g ref="char:EOLhyphen"/>tars properly taken, are not ſet up but for Sacrifice properly
+<pb n="10" facs="tcp:64414:9"/>taken.</hi> And again,
+<note n="k" place="margin">Altaria ſigna evidentiſſima eſſe Sacrificii propriè dicti: <hi>Bel. de Miſ. l.</hi> 1. <hi>c.</hi> 16. <hi>p.</hi> 332.</note> 
+               <hi>Altars are moſt e<g ref="char:EOLhyphen"/>vident ſignes of a Sacrifice properly ſo called.</hi>
+               <note n="l" place="margin">
+                  <hi>Brerely of the Moſſe, Tract.</hi> 1. <hi>ſubd.</hi> 2. <hi>p.</hi> 64, 65.</note> Altars and Sacrifices <hi>inferre one another,</hi> ſaith <hi>Brerely.</hi>
+            </p>
+            <p>They make the like inference (I grant) from the name <hi>Prieſt,</hi> as we may ſee by
+<note n="m" place="margin">
+                  <hi>Bel lib.</hi> 1. <hi>de Miſſa, cap.</hi> 17. <hi>pag.</hi> 332. <hi>col.</hi> 2.</note> 
+               <hi>Bellarmine,</hi> who makes that title one of his topicks, to prove his Sacrifice; but not with like advantage, as they ar<g ref="char:EOLhyphen"/>gue, from the <hi>Altar:</hi> for the one is offered but to the eare, the other to the eye: and we ſee by expe<g ref="char:EOLhyphen"/>rience, that the Poet ſpake like a Prophet, when he ſaid,
+<note n="n" place="margin">
+                  <p>Segnius irri<g ref="char:EOLhyphen"/>tant animum demiſſa per au<g ref="char:EOLhyphen"/>res.</p>
+                  <p>Quam quae ſunt oculis ſub<g ref="char:EOLunhyphen"/>jectae fidelibus <hi>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rat.</hi>
+                  </p>
+               </note> 
+               <hi>that the objects of the eare are more weake in their working, than thoſe of the eye:</hi> the one is but a tranſient word, the other is a permanent worke; the one is properly an <hi>Altar,</hi> the other noteth not properly a Prieſt, in the Evangelicall Church.</p>
+            <p>But what need wee be troubled at the conſe<g ref="char:EOLhyphen"/>quence of a Sacrifice upon an <hi>Altar,</hi> when by Sa<g ref="char:EOLhyphen"/>crifice we may underſtand that which is Orthodox in ſenſe, and not unwonted for uſe in the true Church of God? For, as many of the Ancients uſe the word <hi>Altar,</hi> ſo doe they the word Sacrifice alſo; yea, and ſome of the moſt learned, and beſt reputed Papiſts, give a ſound interpretation of it; as, their Maſter of the Sentences, and their Ange<g ref="char:EOLhyphen"/>licall Doctor (the two moſt renowned Rabbies in the Romiſh Church) who ſay
+<note n="o" place="margin">Quaeritur ſi quod gerit Sacerdos propriè dica<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur Sacrificium, ad hoc breviter dici poteſt vocari Sacrifi<g ref="char:EOLhyphen"/>cium, quia memoria eſt, &amp; repre<g ref="char:EOLhyphen"/>ſentatio veri Sacrificii, &amp; Sanctae Immolationis factae in ara Crucis. <hi>P. Lumb. lib.</hi> 4. <hi>diſt.</hi> 12. <hi>fol.</hi> 357. <hi>p.</hi> 1.</note> It is therefore called a Sacrifice, becauſe it is the memoriall and repreſentati<g ref="char:EOLhyphen"/>on of the true Sacrifice of the <hi>Altar</hi> of the Croſſe; or (as <hi>Bellarmine</hi> himſelfe addeth, as the joint conſent
+<pb n="11" facs="tcp:64414:9"/>of <hi>Lumbard, Aquinas,</hi> and other Schoolemen)
+<note n="p" place="margin">Vel quia ha<g ref="char:EOLhyphen"/>bet effectum ſimilem cum ipſa vera &amp; re<g ref="char:EOLhyphen"/>ali Chriſti oc<g ref="char:EOLhyphen"/>ciſione: <hi>Bel. l.</hi> 1 <hi>de Miſſa, c.</hi> 15. <hi>p.</hi> 331. <hi>col.</hi> 1.</note> becauſe it hath the like effect with a true and re<g ref="char:EOLhyphen"/>all ſacrificing of Chriſt.</p>
+            <p>To which the anſwer may be, Firſt, That there be but few diſputing Papiſts (ſpecially ſince the Trent Councell) that conceive ſo ſoundly of the Sacrament, as to take it for a Sacrifice in that ſenſe; and for <hi>Bellarmine,</hi> he ſhewes his diſlike of it, and pleads with all his power for an <hi>Altar,</hi> and Sacri<g ref="char:EOLhyphen"/>fice properly taken.</p>
+            <p>Secondly, For the vulgar Papiſts, their faith is of the ſtamp of their Teachers tenet, who are (as
+<note n="q" place="margin">
+                  <hi>Aquin ſecun<g ref="char:EOLhyphen"/>da ſecundae, q.</hi> 2. <hi>art.</hi> 6. <hi>Iob</hi> 1.14.</note> 
+               <hi>Aquinas</hi> out of <hi>Gregory</hi> compares them together) as the Aſſes in <hi>Iob,</hi> to the Oxen feeding beſides them, the people adhering to them with an impli<g ref="char:EOLhyphen"/>cite faith, as groſſe in beleeving, as their Doctors are falſe in teaching of untruth; and ſo
+<note n="r" place="margin">Coena Do<g ref="char:EOLhyphen"/>mini pernicio<g ref="char:EOLhyphen"/>ſiſſimo errore dici caepit Al<g ref="char:EOLhyphen"/>taris Sacra<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>tum, ac tan<g ref="char:EOLhyphen"/>dem in Sacri<g ref="char:EOLhyphen"/>ficium reale, &amp; quidem expia<g ref="char:EOLhyphen"/>torium fuit im<g ref="char:EOLhyphen"/>piè tranſmuta-<hi>d</hi> ta: <hi>Bez. in ep. a. Heb. c.</hi> 13. <hi>v.</hi> 10</note> 
+               <hi>The Sup<g ref="char:EOLhyphen"/>per of the Lord, by a moſt pernicious errour</hi> (as <hi>Beza</hi> notes it) <hi>is changed into the Sacrament of the Altar, the Sacrament of the Altar into a Sacrifice, a figurative into a reall and expiatory Sacrifice.</hi> And (which is more in it ſelfe, and more to us, as being of greater authority in our Church) in the
+<note n="ſ" place="margin">Art. 31.</note> Articles of Re<g ref="char:EOLhyphen"/>ligion, to which we ſubſcribe, there is one that ſaith, <hi>The Sacriſice of the Maſſe:</hi> wherein Papiſts ſay (which, as a late
+<note n="t" place="margin">Haec eſt vulgata opinio, quam. hic per<g ref="char:EOLhyphen"/>ſtringit atticulvs, <hi>Fr. a St. Clar.</hi> (or rather <hi>Damport,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <hi>Paul Harris</hi> calls him, in his book called, <hi>Fratres fobrii eſtote, p.</hi> 87, 88.) in his book called, <hi>Deus natura &amp; gratia, in artic.</hi> 31. <hi>pag.</hi> 315.</note> Gloſſer on them acknowledgeth, is their common opinion) <hi>that the Prieſts offer up Chriſt for re<g ref="char:EOLhyphen"/>miſsion of guilt and paine, for the quick and the dead, is a blaſphemous ſigment, and pernicious impoſture.</hi>
+            </p>
+            <pb n="12" facs="tcp:64414:10"/>
+            <p>My fourth Reaſon againſt <hi>Altars</hi> is this;
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>4</label> The Papiſts Sacrament of the <hi>Altar,</hi> or Sacrifice of the Maſſe, on an <hi>Altar,</hi> hath beene the <hi>Altar</hi> on which they have ſacrificed many a Proteſtant, becauſe they would not beleeve the doctrine of the Cake<g ref="char:EOLhyphen"/>incarnation (as
+<note n="u" place="margin">King <hi>Iames</hi> in his defence of the right of Kings, againſt <hi>Perron, p.</hi> 455.</note> King <hi>Iames</hi> called it) which is ſo ſenſeleſſe a conceit, that in that diſpute (as the moſt learned Lord
+<note n="w" place="margin">Anſwer to the Ieſuits challenge, <hi>p.</hi> 45</note> Primate of <hi>Armagh</hi> hath complain<g ref="char:EOLhyphen"/>ed) <hi>we are put to prove that bread is bread, and wine is wine; a matter (one would think) that eaſily might be determined by common ſenſe: and therefore</hi> (ſaith he) <hi>becauſe we have to deale with men, that will needs herein be ſenſeleſſe, we will referre them to</hi> Tertullians <hi>diſcourſe of the five ſenſes, wiſhing they might be reſto<g ref="char:EOLhyphen"/>red to their five wits againe.</hi> And yet they did, like the children of this world (wiſely in their genera<g ref="char:EOLhyphen"/>tion) to bring them to the triall of Tranſubſtantia<g ref="char:EOLhyphen"/>tion, and adoration of the breaden God: for they that would ſwallow ſuch groſſe abſurdities, it was not like they would make ſcruple of any point, ei<g ref="char:EOLhyphen"/>ther of opinion, or of practice in the Popiſh Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>Fifthly,
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>5</label> As ſuch <hi>Altars</hi> and Idolatrous errours, have beene (for the moſt part) married together in the Popiſh Church; ſo they that have (in the dayes of reformation) aboliſhed the one, have demoliſhed the other: as in the dayes of King <hi>Edward</hi> the ſixt.</p>
+            <p>For though in the firſt Communion Book (that was publiſhed by his authority <hi>anno</hi> 1549.) there be
+<note n="x" place="margin">Fol. 110 b fol. 114 b fol. 115 b fol. 116 b fol. 120 b fol. 128 a of the Communion book printed by <hi>Edward Whitchurch,</hi> 1549.</note> frequent mention of an <hi>Altar,</hi> and but once of
+<pb n="13" facs="tcp:64414:10"/>a
+<note n="y" place="margin">Ib. fol. 118 a</note> Board or Table (and then it may be there were more <hi>Altars</hi> than Communion Tables in the Churches of the Kingdome) yet afterward, in the yeere following (<hi>viz.</hi>
+               <note n="z" place="margin">
+                  <hi>Fox martyrol. tom.</hi> 2. <hi>p.</hi> 699. <hi>col.</hi> 2.</note> 1550.) he gave order for the taking downe of <hi>Altars,</hi> and reſtoring of Com<g ref="char:EOLhyphen"/>munion Tables, according to the firſt inſtitution and practice of the Primitive Church. And in the ſecond Communion book (confirmed by Act of Parliament) in the fifth and ſixth of his reigne, we finde
+<note n="a" place="margin">King <hi>Ed<g ref="char:EOLhyphen"/>wards</hi> ſecond Communion Book, printed by <hi>Edward Whitchurch,</hi> 1552 fol. 93. &amp; 1<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. &amp; 115.</note> conſtant mention of a Communion Table, with
+<note n="b" place="margin">Ibid. fol. 93.</note> appointment, that it be placed in the body of the Church, or in the Chancell, the Prieſt ſtand<g ref="char:EOLhyphen"/>ing on the North ſide.</p>
+            <p>With this agreeth the
+<note n="c" place="margin">Fol. 114. of the Communi<g ref="char:EOLhyphen"/>on book of Q. <hi>Elizabeth,</hi> prin<g ref="char:EOLhyphen"/>ted 1559 by <hi>Ri<g ref="char:EOLhyphen"/>chard Grafton.</hi>
+               </note> Communion book ſet forth in the firſt yeere of Queene <hi>Elizabeths</hi> reign, and thoſe Conſtitutions which were made in her time: as in the booke of
+<note n="d" place="margin">The Booke of Canons in Qu. <hi>Elizabeths</hi> time, <hi>pag.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. printed 1572.</note> Canons, publiſhed in the yeere 1571. the Church-wardens are charged to ſee, that there be a faire joyned Table, which may ſerve for Adminiſtration of the holy Com<g ref="char:EOLhyphen"/>munion. And the Bookes of ſeverall Editions, both in her time, and in the reigne of King <hi>Iames,</hi> and our Soveraigne that now is, doe all agree with that Conſtitution (which we have obſerved
+<note n="e" place="margin">The end of the Rubrick, at the beginning of the Com<g ref="char:EOLhyphen"/>munion, in all Editions.</note> be<g ref="char:EOLhyphen"/>fore) both for the Tables placing in the Church, and the Prieſts ſtanding at the Table. And the Ca<g ref="char:EOLhyphen"/>nons of 1603 (with good conformity to the former rules) ordain thus:
+<note n="f" place="margin">Canon 82 of the book a<g ref="char:EOLhyphen"/>greed upon <hi>an.</hi> 1603.</note> 
+               <hi>Whereas we have no doubt, but that in all Churches (of the Realm of England) convenient and decent Tables are provided, we appoint that the ſame Tables ſhall from time to time be kept and repaired in ſufficient and ſeemely manner, and covered in time
+<pb n="14" facs="tcp:64414:11"/>of divine ſervice, with a Carpet of ſilke, or other de<g ref="char:EOLhyphen"/>cent ſtuffe, and with a faire linnen cloth, at the time of miniſtration, as becommeth that Table; and ſo ſtand, ſaving when the holy Communion is adminiſtred, at which time the ſame ſhall be placed in ſo good ſort (within the Church or Chancell) as thereby the Mini<g ref="char:EOLhyphen"/>ſter may be more conveniently heard of the Communi<g ref="char:EOLhyphen"/>cants, in his prayer and adminiſtration, and the Com<g ref="char:EOLhyphen"/>municants alſo more conveniently, and in more num<g ref="char:EOLhyphen"/>ber, may communicate with the ſaid Miniſter.</hi>
+            </p>
+            <p>And if we take our proſpect from the preſent State of our Church, as under the guidance of my Lord of <hi>Canterburie</hi> that now is, and thence look forward towards the future, wee may have good hope (though <hi>Altars</hi> be made of ſtone, and Tables but of wood) that the neweſt of thoſe ſhall crum<g ref="char:EOLhyphen"/>ble into duſt, and be troden under feet, while theſe ſhall ſtand up as perpetuall monuments of the Pri<g ref="char:EOLhyphen"/>mitive Inſtitutions of the bleſſed Sacrament. For the firſt of the Articles of his Viſitation (which as Sir <hi>Nathanael Brent</hi> his Viſitor and Vicar ge<g ref="char:EOLhyphen"/>nerall ſaid in an Aſſembly of the Clergy, were with eſpeciall diligence dictated or penned by him) it is made a chife part of the Church-war<g ref="char:EOLhyphen"/>dens care, that Communion Tables ſhall be provi<g ref="char:EOLhyphen"/>ded in all their Churches, and they ſo placed, as may be of moſt uſe and edification. His words are theſe.</p>
+            <p>
+               <hi>Whether have you in your ſeverall Churches, and Chappels, the whole Bible of the largeſt volume, the Book of Common Prayer (both fairely and ſubſtantial<g ref="char:EOLhyphen"/>ly bound) a Font of ſtone ſet up in the ancient uſuall
+<pb n="15" facs="tcp:64414:11"/>place, a convenient and decent Communion Table, with a Carpet of ſilke, or ſome other decent ſtuffe, continu<g ref="char:EOLhyphen"/>ally laid upon the ſame, at the time of divine ſervice, and a faire linnen cloth thereon at the time of the re<g ref="char:EOLhyphen"/>ceiving of the holy Communion? and whether is the ſame Table placed in ſuch convenient ſort, (within the Chancell or Church) as that the Miniſter may be beſt heard in his prayer, and adminiſtration, and that the greatest number may communicate?</hi>
+            </p>
+            <p>Sixthly,
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>6</label> from hence we may now except againſt ſuch new <hi>Altars,</hi> as Schiſmaticall Novelties. <hi>Novelties</hi> in reſpect of the firſt founded Churches, which were before Popery was planted; and <hi>no<g ref="char:EOLhyphen"/>velties</hi> againe, in reſpect of the State of the chief reformed Churches, ſince it was ſupplanted: as for ours of <hi>England,</hi> from the yeere 1550. (untill this preſent) <hi>Altars</hi> (by the moſt authentick Con<g ref="char:EOLhyphen"/>ſtitutions, and conſtant cuſtome of our Church) have ſtood excommunicated, and Tables of wood authorized in their ſtead. And <hi>Schiſmaticall,</hi> be<g ref="char:EOLhyphen"/>cauſe the Canon takes it for certaine and undoubt<g ref="char:EOLhyphen"/>ed, that there be decent and convenient Tables provided in all the Churches of the Realme of <hi>England:</hi> and if that (which your Lordſhip hath ſet up) be an <hi>Altar</hi> (and I know not by what more proper name to call it) there is <hi>Schiſme</hi> upon <hi>Schiſme,</hi> a diviſion from the generall, and a ſub<g ref="char:EOLhyphen"/>diviſion in our particular Church: for in the Quire there is a Table of wood, and above that, in the upper end of the old Conſiſtorie, an <hi>Altar</hi> of ſtone.</p>
+            <p>Seventhly, hereby Papiſts are emboldened,
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>7</label> and
+<pb n="16" facs="tcp:64414:12"/>take heart, and hope to ſee their ſuperſtition re<g ref="char:EOLhyphen"/>ſtored again, as I have heard by divers; and he that was my firſt Informer of the erection of an <hi>Altar,</hi> when I denied it (as before I have ſaid) replied preſently (with a confident jollity) <hi>Nay, you will all of you come to us, or to it, at the length.</hi> And ſome others ſaid, <hi>The Biſhop is wiſe, and hath good intel<g ref="char:EOLhyphen"/>ligence how things are like to goe, and he prudently applyeth himſelfe to the times, and acteth his part ac<g ref="char:EOLhyphen"/>cordingly.</hi> And I doubt not but much more, and ſomewhat worſe hath beene ſaid than I have heard, which if it came to your Lordſhips eare (at the firſt hand) would happily induce your Lordſhip to beleeve, that there is more need of double reins to keep men back, than of a goad or ſpur to prick men forward to the profeſſion of Popery, eſpeci<g ref="char:EOLhyphen"/>ally in your Dioceſſe; of a great part whereof our
+<note n="g" place="margin">At Our firſt entry to this Crowne and Kingdome We were informed, and that too eruly, that out County of <hi>Lancaſhire</hi> a<g ref="char:EOLhyphen"/>bounded more in Popiſh Recuſants, than any County of England, and thus hath ſtill continued, to our great regreat. <hi>So in His Maieſties Declaration of lawfull ſports, p.</hi> 3. <hi>printed</hi> 1618. <hi>in the later edition of it, p.</hi> 6. <hi>printed</hi> 1633.</note> Soveraigne that late was, was informed (and that too truly) that it abounded more with Popiſh Recuſants, than any County of <hi>England.</hi> His Majeſtie had heard of ſome amendment then, but now the report goes, that ſome goe back, and thoſe men of ſome eminent note, which may be better knowne unto your ſelfe, than to me; yet I have heard their Names, and can name mine Author for divers of them.</p>
+            <p>Eighthly,
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>8</label> To another ſort of men, who (by way of gratitude for your great moderation towards them) have held it their duty to preſent their
+<pb n="17" facs="tcp:64414:12"/>hearty devotions to Almighty God, for your long and comfortable continuance among us, this <hi>Altar</hi> (if you make the Conſiſtorie place where it is a graduate from a Court to a Church) will be a rock of offence, and make them as ſtiffe againſt knee<g ref="char:EOLhyphen"/>ling at the Sacrament, as any of their Adverſaries flexible or pliable to bow to an <hi>Altar.</hi>
+            </p>
+            <p>We have hitherto told them, that we are cleere from all ſuſpition of Popiſh adoration, ſince (in the
+<note n="h" place="margin">
+                  <hi>Artic.</hi> 28.</note> Articles of our Religion) it is expreſly ſaid, that <hi>the Sacrament of the Lords Supper was not by Chriſts ordinance to be reſerved, carried about, lifted up, or worſhipped:</hi> and that for the avoiding of ſu<g ref="char:EOLhyphen"/>perſtition, it was ordained by the Church in King <hi>Edwards</hi> dayes, <hi>That no
+<note n="i" place="margin">
+                     <hi>Fox Martyrol. tom.</hi> 2. <hi>p.</hi> 699.</note> wafer cake, but common bread, without any
+<note n="k" place="margin">K. <hi>Edwards</hi> Communion book, fol. 221. a</note> print, ſhould be uſed in the admi<g ref="char:EOLhyphen"/>niſtration of the Sacrament.</hi> And in the Rubrick of all our Communion books ſince his time, the like caution is ſet downe in theſe words: <hi>And to take away the ſuperſtition that any perſon hath, or might have, in the bread and wine, it ſhall ſuffice, that the bread be ſuch as is uſuall to bee eaten at the Table with other meats.</hi>
+            </p>
+            <p>But if <hi>Altars</hi> be ſet up, they will be more ſtiffe in ſtanding out againſt conformity in geſture, at the Sacrament, and we that are conformable, ſhall be leſſe ſtrong to conteſt with them in that parti<g ref="char:EOLhyphen"/>cular, at leaſt we ſhall do it with leſſe hope of good ſucceſſe, and more diſadvantage, by their greater jealouſie, and deeper prejudice of our perſwaſi<g ref="char:EOLhyphen"/>ons, wherein in former times (as your Lordſhip knowes) our labour hath not been in vain beſtowed on divers of them.</p>
+            <pb n="18" facs="tcp:64414:13"/>
+            <p>And is there, or can there be any thing in that heap of ſtones, which may ſerve to repaire the ru<g ref="char:EOLhyphen"/>ines which an <hi>Altar</hi> may make? If <hi>Altars</hi> had been needfull, the firſt and pureſt Churches would not have wanted them; if they had beene lawfull, or uſefull, the zeale of the beſt reformed Churches would not have beene ſo ſet againſt them, ſo hot, and ſo long: ſo hot, as to pull them downe, ſo long, as all this while before noted, to keep them down below the footſtoole of the Lords Table: and for a thing which they accounted naught, or needleſſe, or both, to make alteration, and give offence, the prudence (not the piety onely) of precedent ages hath not approved.</p>
+            <p>And how needleſſe a thing was this (to ſay no worſe) when (if it had not beene done at all) none would ever have required a reaſon of the omiſſion of it; but being done, very many (though you heare them not) make queſtion of it, nay, make no que<g ref="char:EOLhyphen"/>ſtion to cenſure and condemne it; and few there are that can give a good interpretation of it, or make a probable Apologie for it, for ought I have yet heard,
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>9</label> or of my ſelfe can yet conceive. Eſpecially ſince that (which ſhall be my laſt reaſon againſt this erection) if it be an <hi>Altar</hi> (for yet I ſay not that it is ſo) it is reſolved by wiſe men, that it is not in the power of a particular Biſhop (without warrant from the King, or his Councell under him) either to ſet up, or to pull down <hi>Altars;</hi> which I the rather beleeve, becauſe in King <hi>Edwards</hi> dayes (when they were to be depoſed, and Communion Tables ſet up for the ſervice of the Sacrament)
+<note n="l" place="margin">
+                  <hi>Fox Martyrel. tom.</hi> 2. <hi>p.</hi> 699. 700</note> Letters in the Kings
+<pb n="19" facs="tcp:64414:13"/>name (ſubſcribed with the conſent of nine Privie Counſellors) were directed to Biſhop <hi>Ridley</hi> to that purpoſe, with conſiderations of reaſon for their re<g ref="char:EOLhyphen"/>movall, that it might be effected without, or with as little offence as poſſible might be.</p>
+            <p>In this diſcourſe of mine, my Lord, I argue ra<g ref="char:EOLhyphen"/>ther againſt that dull and dumb text of the handy<g ref="char:EOLhyphen"/>crafts man, with the over quick conceits and crafty comments (which Popiſhly affected perſons have ſet upon it) than againſt your intentions, in either appointment or permiſſion of it, becauſe yet I know not what they are.</p>
+            <p>And I will not preſume to determine any thing without direction from your Lordſhip; I know you will not ſay, as the Tribes of <hi>Reuben,</hi> or <hi>Gad,</hi> and halfe Tribe of <hi>Manaſſeh</hi> did, in defence of their <hi>Altar,</hi> when the other Tribes, ſuſpecting a Schiſme, pre<g ref="char:EOLhyphen"/>pared to fight with them, that it is not an <hi>Altar</hi> for burnt offerings or ſacrifice, but for a witneſſe of u<g ref="char:EOLhyphen"/>niformity in Religion with them that have them, and ſo plead for them, as I have ſhewed.</p>
+            <p>For a man may ſooner eat up an <hi>Altar</hi> of ſtone, though it were as big as a Church, than reconcile our Church and the Romiſh together, whatſoever the quirking Scotiſt <hi>Damport,</hi> masked under the title of <hi>Franciſcus à ſancta Clara,</hi> hath deviſed; or the flouriſhing Poet (whoſe wit outbraveth his
+<note n="m" place="margin">
+                  <hi>Wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ers Em<g ref="char:EOLhyphen"/>blemes p.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>of his ep. dedicat.</hi>
+               </note> name) hath lately fancied, touching the union in Religion. I beleeve Biſhop
+<note n="n" place="margin">
+                  <hi>B.</hi> Hall <hi>his Ro. irrecrualiab.</hi>
+               </note> 
+               <hi>Hall,</hi> who hath pro<g ref="char:EOLhyphen"/>ved the repugnances irreconcilable</p>
+            <p>Howſoever, you may perhaps conceive it to be of ſome uſe unto you, to cleare you from all im<g ref="char:EOLhyphen"/>putation
+<pb n="20" facs="tcp:64414:14"/>of Puritaniſme, which ſome have (as you ſay, and thoſe that well know you, may ſweare) very undeſervedly put up againſt you: and for that pur<g ref="char:EOLhyphen"/>poſe perhaps you raiſed it up, to ſupport your Epi<g ref="char:EOLhyphen"/>ſcopall reputation againſt that reproach.</p>
+            <p>Your learned and worthy Predeceſſour, Bi<g ref="char:EOLhyphen"/>ſhop <hi>Morton,</hi> had the ſame lot, for hee was accu<g ref="char:EOLhyphen"/>ſed (to King <hi>Iames</hi>) as a favourer of Puritanes; but he cleared himſelfe, firſt by a Letter to his Ma<g ref="char:EOLhyphen"/>jeſtie, and afterwards by a Book, not by an <hi>Altar,</hi> or any alteration which might incline towards con<g ref="char:EOLhyphen"/>formity to the oppoſite ſide; and hath ſince ſhew<g ref="char:EOLhyphen"/>ed himſelfe a vigilant watchman, and a courageous Champion for Chriſt and his Church, againſt the whole hoſt of ſacrificing Shavelings.</p>
+            <p>Nor will it ſuffice with ſome, to purge you from all appearance of Puritaniſme, though you ſhould ſet up the Maſſe, with every trifle and tittle that be<g ref="char:EOLhyphen"/>longs unto it; for there were Biſhops in the Coun<g ref="char:EOLhyphen"/>cell of <hi>Trent,</hi> who were ſo farre
+<note n="o" place="margin">
+                  <hi>Hiſt. Concil. Trid. p.</hi> 502. <hi>l</hi> 6.</note> Papiſts, and a great deale further, and yet had the name of Puri<g ref="char:EOLhyphen"/>tanes put upon them; and which may be more for any ſubjects credit and comfort, againſt the con<g ref="char:EOLhyphen"/>tempt of that reproach (when they doe not deſerve it) King <hi>Iames</hi> himſelf (though he was the greateſt enemy of ſuch as were truly worthy of that title) was (by ſome Papiſts) termed a Puritane, and that ſo rigid, as to be an enemy to Proteſtants.</p>
+            <p>Thus farre, my Lord, I have made bold to repre<g ref="char:EOLhyphen"/>ſent unto you, what (in my conceit) doth much con<g ref="char:EOLhyphen"/>cerne you to conſider; and for the uſe you will make of it, I muſt recommend it to God, and your
+<note n="p" place="margin">King <hi>Iames</hi> his works <hi>p.</hi> 343 in his confuta<g ref="char:EOLhyphen"/>tion of <hi>Tortus</hi> his lyes.</note>
+               <pb n="21" facs="tcp:64414:14"/>owne conſcience. It may be ſome (if they knew what I have done) would ſuggeſt I have herein preſumed too much upon your Lordſhips patience and lenity. To ſuch I can ſay thus much for my ſelfe, that
+<note n="q" place="margin">Tenentur ſubditi chari<g ref="char:EOLhyphen"/>tatis corropti<g ref="char:EOLhyphen"/>one Praelatos cum reveren<g ref="char:EOLhyphen"/>tia, &amp; honore, &amp; manſuetudi<g ref="char:EOLhyphen"/>ne, admonere. <hi>Aquin. ſecunda ſecundae</hi> 33 <hi>art.</hi> 4. <hi>concluſ.</hi>
+               </note> 
+               <hi>Aquinas</hi> hath reſolved, <hi>an inferiour Clerke may ſometimes admoniſh a Prelate;</hi> yea, and is bound unto it, with this proviſo, <hi>that it be done with reverence and manſuetude;</hi> and that the greateſt Prelates in the world have beene ſometimes freely reprehended by their inferiours; as Pope <hi>Eugenius</hi> the third, by <hi>Bernard;</hi> Pope
+<note n="r" place="margin">
+                  <hi>Dorman</hi> in his diſproofe of <hi>Nowels</hi> re<g ref="char:EOLhyphen"/>proofe: <hi>c.</hi> 13. <hi>fol</hi> 75. <hi>p.</hi> 6.</note> 
+               <hi>Paul</hi> the fourth, by a private perſon in <hi>Rome,</hi> and Pope <hi>Pius</hi> the fifth, by <hi>Peter Soto</hi> (a Friar)
+<note n="ſ" place="margin">Ibid.</note> who wrote Letters to him, wherein he admoniſhed him freely, to take order that Biſhops, and other inferiour Paſtors, might be compelled to keep reſidence with their char<g ref="char:EOLhyphen"/>ges, and threatned him with utter damnation, in the judgement of God, unleſſe he did ſo.</p>
+            <p>But there will be no need of ſuch vigorous words, your Lordſhips ready diſpoſition to condeſcend to the ſway of religious reaſon, would make it un<g ref="char:EOLhyphen"/>mannerly malapertneſſe in me, if I ſhould (eſpeci<g ref="char:EOLhyphen"/>ally in ſuch an ambiguous caſe wherein I know not how farre your Lordſhip is engaged) uſe the fer<g ref="char:EOLhyphen"/>vency of the Friar to you, who never uſed any Popelike perverſneſſe or frowardneſſe to me.</p>
+            <p>I ſee my ſelfe inlarged beyond the limits of a Letter, which if you take to be a fault, take it alſo for my puniſhment: for I had never leſſe lei<g ref="char:EOLhyphen"/>ſure to be over long in my writing, than at this time; yet I cannot forbeare to adde further, the proofe of my hearty deſire, to have you deeply
+<pb n="22" facs="tcp:64414:15"/>indeared in the favour of him whom the Apoſtle calleth (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>the Biſhop of Soules,</hi> 1 <hi>Pet.</hi> 2.25. at whoſe Viſitation (which though it come not in haſte, will be ſure and ſevere) I wiſh you may give a good account of your great charge, and that in the meane time you may rather grow, than abate in the reverend regard of all good men, which will either not be had, or not held, if it begin not at God; nor will God vouchſafe to favour or honour any in ſuch ſort, who ſets not an high price on every peece or part of Religion, to ſecure and preſerve it from all impeachment. For (as the
+<note n="t" place="margin">Aut undique religionem toll, aut uſ<g ref="char:EOLhyphen"/>quequaque conſerva. <hi>Ci. Phil.</hi> 2. <hi>fol.</hi> 239.</note> Orator ob<g ref="char:EOLhyphen"/>ſerved) it is <hi>no better than abandoned, if it be not every way, and entirely maintained:</hi> and in this, ſo farre as your Lordſhip is intereſſed more than o<g ref="char:EOLhyphen"/>thers, ſo much more acceptable (I hope) will mine advertiſements of it be unto you. If otherwiſe, I ſhould finde offence in ſtead of favour (which my long experience of your benignity forbids me to feare) I ſhall be ſo farre from repenting me of my plaine dealing with you, that (if I know mine own heart) I think I ſhould rather offer my ſelfe as a Sa<g ref="char:EOLhyphen"/>crifice on an <hi>Altar,</hi> than leave any part of my duty to God or your Lordſhip (of ſo great moment as this is) unperformed. And ſo I reſt</p>
+            <closer>
+               <signed>Your Lordſhips in all affectionate and humble obſervance, JOHN LEY.</signed>
+               <dateline>
+                  <hi>From Budworth</hi> 
+                  <date>
+                     <hi>Iune</hi> 29. 1635.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="23" facs="tcp:64414:15"/>
+            <head>A POSTSCRIPT To the precedent Letter, for further ſatis faction to the Reader touching the publication of it, and ſome other points of moment that ap<g ref="char:EOLhyphen"/>pertain unto it.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Letter it ſelfe hath ſhewed upon what occaſion it was written, and why it is now publiſhed I ſhall ren<g ref="char:EOLhyphen"/>der the reaſon, and this it is; Since my
+<note n="“" place="margin">Which was <hi>Ianu.</hi> 13. of this yeer cucrent. 1640.</note> comming to <hi>London,</hi> I was cre<g ref="char:EOLhyphen"/>dibly informed, that a copy of it was brought hi<g ref="char:EOLhyphen"/>ther (by what means I know not) prepared for the Preſſe, and that (either with or without my con<g ref="char:EOLhyphen"/>ſent) it would preſently be printed. If ſo, ſaid I, I had rather make uſe of mine owne power over it, for ſetting of it forth, in the way of truth and faire daylight, than ſuffer it by ſtealth to come abroad, (and like a <hi>non licet</hi> Pamphlet) to wander about, without due correction, and a lawfull paſſe.</p>
+            <p>Beſides, by mine owne edition of it, I may make uſe of a fit opportunity to preſent unto the Reader ſome <hi>particulars,</hi> wherein he may deſire a further ſatisfaction, than the Letter it ſelfe (if it
+<pb n="24" facs="tcp:64414:16"/>ſhould come alone) could bring unto him: <hi>which</hi> I ſhall ſort under theſe ſeverall heads.</p>
+            <p n="1">1. <hi>The Biſhops Anſwer returned unto my Letter.</hi>
+            </p>
+            <p n="2">2. <hi>The late verſes written as an Elegy upon the pul<g ref="char:EOLhyphen"/>ling downe of that ſtone-work, againſt which my Letter was directed.</hi>
+            </p>
+            <p n="3">3. <hi>Such diſcourſes as ſince have beene publiſhed in favour of</hi> Altars, <hi>and bowing towards them, though more for the name, than for the thing it ſelfe.</hi>
+            </p>
+            <p n="1">1. For the firſt Particular, <hi>What anſwer the Biſhop returned to my Letter when he had read it.</hi>
+            </p>
+            <p>That being the anſwer not of his hand, but of his tongue, and that many yeeres ſince I would not take upon me now to report it, without a new recourſe unto him, to rectifie my remem<g ref="char:EOLhyphen"/>brance thereof, leſt (at ſuch a diſtance of time) I ſhould miſtake his words or meaning) and there<g ref="char:EOLhyphen"/>fore the laſt
+<note n="“" place="margin">
+                  <hi>Ianu.</hi> 23. 1640.</note> week, having told him (in effect) what I have related (touching the publiſhing of this Letter) I deſired him to informe me what I ſhould ſay (as from him) concerning that offenſive ſtructure, which was commonly called and con<g ref="char:EOLhyphen"/>demned by the name of an <hi>Altar.</hi> This ſaid he.</p>
+            <p>
+               <hi>When I cauſed it to be ſet up, I proteſt I had no thought of an</hi> Altar; <hi>and I meant it only for a repo<g ref="char:EOLhyphen"/>ſitorie to the Preacher (in the uſe of a table) in that place; which though it were ſomewhat neer the Quire, was not uſed but as a Conſiſtory Court, and where (upon removall of the ſeats to the weſt end of the Cathedrall) the materialls (whereof it was made) were found rea<g ref="char:EOLhyphen"/>dy for ſuch a purpoſe: but hearing great offence was taken at it, I gave order for it to bee taken
+<pb n="25" facs="tcp:64414:16"/>downe, which is done accordingly.</hi>
+            </p>
+            <p>Whereupon followeth the ſecond Particular, concerning the late verſes, written as an Ironicall Elegy upon that occaſion, whereof the Title is this.</p>
+            <p>
+               <hi>A ſad complaint of the late Altar newly erected, and prepared for a new ſacrifice, by the Lord Biſhop of</hi> Cheſter, <hi>in the upper end of the Chancell of the Ca<g ref="char:EOLhyphen"/>thedrall Church of</hi> Cheſter, <hi>in the new intended Chappell there, newly pulled downe (as it was high time.)</hi>
+            </p>
+            <p>Then follow the verſes, whereof I will ſelect ſuch and ſo many as may bee a convenient intro<g ref="char:EOLhyphen"/>duction to diſcover the difference betwixt the ground of truth, and the deſcant of wit and fancie raiſed upon it: and they are theſe,
+<q>
+                  <l>I, who from thoſe faire banks of <hi>Tyber</hi> came,</l>
+                  <l>A ſtranger here by nature and by name;</l>
+                  <l>I, whom the reverend Father here had placed,</l>
+                  <l>And with the name of <hi>Altar</hi> had me graced;</l>
+                  <l>I, in whoſe ſacred preſence all men know</l>
+                  <l>Every ſincere devoted knee did bow</l>
+                  <l>At their demure approaching:—</l>
+                  <l>Am now become the object of all ſcorne,</l>
+                  <l>My members and materials rent and torne;</l>
+                  <l>Come holy Fathers of the Convocation,</l>
+                  <l>See and lament my wofull deſolation.</l>
+                  <l>Come Deanes and Prebends (in your ſurplice clad)</l>
+                  <l>From whoſe examples I much reverence had.</l>
+                  <pb n="26" facs="tcp:64414:17"/>
+                  <l>Loud Petty Canons come roare out your cryes,</l>
+                  <l>Make up your Chorus, in ſad Elegies,</l>
+                  <l>For my departure, ſtick not now to lend</l>
+                  <l>Your tears to whom you once your knees did bend;</l>
+                  <l>Come conducts, Choriſters, and every lad,</l>
+                  <l>Belch out your ſighes, and ſcreame as you were mad.</l>
+               </q>
+            </p>
+            <p>I like it well enough that as <hi>Elijah</hi> mocked the Prieſts of <hi>Baal,</hi> 1. <hi>Kings</hi> 18 27. So that all that ſet up <hi>Altars</hi> for Idolatry, or that Superſtitiouſly bow unto them, ſhould have thier blind devotion played upon, both in Proſe and verſe, and ſo be ſacrificed to Deriſion, and therefore ſince I ſee the compoſer of this Poem ſheweth a great deal of zeale a<g ref="char:EOLhyphen"/>gainſt that, which my ſoul hateth aſwell as his, and from which my body is as free as his can bee (for I never yet bowed head or knee, either to or towards an <hi>Altar</hi> or holy table) I will not call it (as ſome would do) a <hi>libell.</hi> But yet leaſt the reader ſhould ſuppoſe, that all this ſmoak (or if any will call it a perfume, becauſe they re<g ref="char:EOLhyphen"/>ſent it with delight, I will not contend with them) hath the fire of hiſtoricall truth to produce and maintaine it: I conceave it to be conſonant both to good conſcience, and neceſſary diſcretion, to make a true, but briefe report, in what place the <hi>Altar</hi> ſtood, and what reſpect it had when it was erected.</p>
+            <p>The place was the ſame which was formerly (for many yeeres) uſed for the Conſiſtory Court, it is the utmoſt roome of the Cathedrall eaſtward, betwixt which and the Quire, there is an interme<g ref="char:EOLhyphen"/>diate
+<pb n="27" facs="tcp:64414:17"/>ſpace (more large than it) which is imployed to no particular uſe, but lieth open for paſſage round about it. In this place (for ought I can learne) there was never any exerciſe of Religion ſince the Churches reformation by Queene <hi>Eliza<g ref="char:EOLhyphen"/>beth:</hi> and here it ſtood ſo farre from all reſpect of Adoration, that I verily beleeve it never had ſo much as one Cap or Congey from any one, un<g ref="char:EOLhyphen"/>leſſe perhaps ſome ſimple Papiſt (ſeeing it ſo neglected) in pure pitty rather than in piety, be<g ref="char:EOLhyphen"/>ſtowed, as an almes, ſome part of his ſuperabun<g ref="char:EOLhyphen"/>dant Superſtition upon it; which yet I cannot think was often done (if done at all) becauſe the paſſage to it was uſually lockt up, except in time of publick prayer and ſermon: Nor can I ima<g ref="char:EOLhyphen"/>gine the Biſhop ever meant (whatever other meaning hee might have) that any one ſhould bow unto it or ſuperſtitiouſly direct their Adora<g ref="char:EOLhyphen"/>tion towards it.</p>
+            <p>And I cannot but conceive (at leaſt of ſuch as have beene long and ſoundly trained up in the truth of our Proteſtant Doctrine againſt the ab<g ref="char:EOLhyphen"/>ſurdity of Popiſh Tranſubſtantiation) that their curious and conſtant homage towards the <hi>Altar</hi> (as too many phraſe it) hath more affinity with Hypocriſie than with Superſtition.</p>
+            <p>They that have obſerved ſome late unpleaſing paſſages (betwixt the Biſhop and me) will mar<g ref="char:EOLhyphen"/>vell that I make this Apology for him, and I confeſſe there is ſome cauſe to move them to it; but more, as I conceive, to move me to this.</p>
+            <p n="1">1. For that (for the moſt part of mine enter<g ref="char:EOLhyphen"/>courſe
+<pb n="28" facs="tcp:64414:18"/>with him) I have had more experience of favourable than of offenſive dealing from him, and if that which is beſt and moſt ſhould not more affect me than the contrary, I ſhould contradict at once both my naturall diſpoſition, and Chriſti<g ref="char:EOLhyphen"/>an profeſſion.</p>
+            <p n="2">2. For the late difference betwixt us (which ſome may think I ſhould not eaſily digeſt) I take it for a matter of too ſmall moment, to bee the root of a ſetled miſconceit; for it was but about the ſetting downe of a cypher without a figure (The choyce of a Clark for the Convocation at <hi>York.</hi>)</p>
+            <p>And for that we were thus farre agreed, that hee was unwilling to be croſt in a ſecond choyce of me eſpecially having beene uſed to ſway the E<g ref="char:EOLhyphen"/>lection himſelfe, and it may be alſo pre-ingaged to ſome other (who might have more minde and better leaſure than I had, to ſpend time and to take paines to little purpoſe) and I was loath againe to be deſigned the Clergies unprofitable ſervant in that kinde, wherein (unleſſe I did overdoe the duty of my place if ſo I could doe any thing and put a double task upon my ſelfe, by giving atten<g ref="char:EOLhyphen"/>dance by turnes on both Convocations) I might be ſure to returne my talent in a Napkin,
+<note place="margin">
+                  <hi>Luke</hi> 19.20.</note> with no more profit by it, than he that hath laboured for the wind, <hi>Eccleſ.</hi> 5.16.</p>
+            <p n="3">3. The third and laſt particular is concerning ſuch diſcourſes, as (ſince my Letter was pend) have beene publiſhed in print, in favour of <hi>Altars</hi> and bowing towards them, though they ſay more for
+<pb n="29" facs="tcp:64414:18"/>the name, than for the thing it ſelfe; whereof, though much hath beene ſaid, a little may ſuffice to ſet us right in that point.</p>
+            <p>For that, firſt I take it to be a very good and ſafe rule of Religious worwip (and eſpecially per<g ref="char:EOLhyphen"/>tinent to the ſtate of the Evangelicall Church) which the Prophet <hi>Eſay</hi> delivereth in theſe words; <hi>In that day ſhall a man look to his maker, and his eyes ſhall have reſpect to the holy one of Iſrael, and he ſhall not look to the</hi> Altars, <hi>the work of his hands, neither ſhall hee reſpect that which his fingers have made,</hi> Eſay 17. ver. 7, 8.</p>
+            <p>Secondly, though ſome mens ſlighting both of the Lords Table, and Temple, required a remedy to keep off contempt, both from them and the ex<g ref="char:EOLhyphen"/>erciſes of Religion belonging to them, and that uſually the manner of Reformers of irreligious er<g ref="char:EOLhyphen"/>rours, is to doe as Gardeners doe with crooked twigs (which is to bend them as farre the contra<g ref="char:EOLhyphen"/>ry way, not that they ſhould remaine crooked on either hand, but that afterwards they might reſt in a right conſiſtence) yet there was great care to be taken in this caſe (which ſome writers for <hi>Al<g ref="char:EOLhyphen"/>tars</hi> ſeeme not to regard ſo much as they ought) that the remedy of Prophaneſſe might not be ſuch as might foment ſuperſtition, a ſore which in ſome conſtitutions doth eaſily turne to the Gan<g ref="char:EOLhyphen"/>green of Idolatry, and is ſo much the more dan<g ref="char:EOLhyphen"/>gerous, as there be the more ſubtle and ſedulous agents to infect men with it; and as they that are moſt infected, will the leſſe acknowledge their owne diſeaſe, or be more unwilling to admit of
+<pb n="30" facs="tcp:64414:19"/>the meanes to cure them of it: In this reſpect I much feared that what ground was gotten in this way againſt the Prophane would bee eaſily turned to the advantage of ſuch as were Popiſh.</p>
+            <p>Thirdly, bee it the Ancient Fathers as is al<g ref="char:EOLhyphen"/>leadged (by divers who have written for <hi>Altars</hi>) doe frequently call the Communion Table by the name of <hi>Altar</hi> (as they uſe the word Prieſt and Levite, and other tearms of conformity to the old Teſtament) yet if they were now alive againe, and obſerved how their language hath beene miſ<g ref="char:EOLhyphen"/>applyed to the promotion of Popery, they would (I beleeve) no more approve of ſuch expreſſions, as formerly were frequent in their diſcourſes, then we do now think it fit to uſe the word Tyrant for a King, though anciently all Kings were called ſo, even <hi>Iupiter</hi> himſelfe, by
+<note n="“" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Homer</hi> and others, when they meant to ſpeak very honourably of him, or to call our Biſhops Popes, which was a common title to them all in former times, when the Biſhops of Rome were better men, than ſince they made it peculiar to themſelves.</p>
+            <p>Fourthly, Though the formes of Speech, and Phraſes touching <hi>Altars</hi> and Geſtures, were ten<g ref="char:EOLhyphen"/>dred unto us in the name of the fathers (as in <hi>Altar</hi> treatiſes we finde them cited) very few would look ſo far back as to their times, for direction in Reli<g ref="char:EOLhyphen"/>gion, but to moſt (no doubt) the next precedent Age would be the Horizon of their holy ob<g ref="char:EOLhyphen"/>ſervation: for it is the manner of moſt, both Pa<g ref="char:EOLhyphen"/>piſts, and other ignorant people, when they hear <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y thing of the old religion, to fancy none other
+<pb n="31" facs="tcp:64414:19"/>then that of their Popiſh Anceſtors, which in re<g ref="char:EOLhyphen"/>ſpect of true venerable and orthodox Antiquity, is in no other ſence, to be called the old Religion, then Almanacks out of date are called <hi>old Alma<g ref="char:EOLhyphen"/>nacks</hi> becauſe they have a precedency of time though far ſhort if old or Ancient before that of the yeer current.</p>
+            <p>Fifthly, Albeit it be lawfull, to call the Com<g ref="char:EOLhyphen"/>munion table by the name of an <hi>Altar</hi> (for which terme there hath) been but too much ſtriving of late) yet commonly to call it ſo (as ſome do) to put the better title which is the <hi>Lords Table</hi> out of uſe is not to be liked, much leſſe to bring it into diſgrace: as he would have done, who pleading for the name <hi>Altar,</hi> againſt the Book called <hi>The holy table name &amp; thing,</hi>
+               <note place="margin">
+                  <hi>Trapeza</hi> in greek ſignify<g ref="char:EOLhyphen"/>eth a Table.</note> had a mind and meaning to call his anſwer to it, <hi>Trapezuntius vapulans</hi> 1. <hi>The table man bea<g ref="char:EOLhyphen"/>ten:</hi> but upon better advice he bethought himſelf of a fitter title for his treatiſe.</p>
+            <p>Sixthly, Since the Papiſts never, or very rarely uſe the word <hi>Table,</hi> but <hi>Altar</hi> both out of too much devotion too it, and too great diſ-affection of us, &amp; our Church, it would be convenient that we were (at leaſt) more ſpareing in the uſe of the word <hi>Altar,</hi> and Generally more accuſtomed our ſelves to the name <hi>Table,</hi> the rather becauſe ſince we have ſeemed in tearmes, and ſome other wayes, to com<g ref="char:EOLhyphen"/>ply with them, more then in former times, they have multiplied in number and advanced in confi<g ref="char:EOLhyphen"/>dence: And it would become our humane Prudence and Proteſtant zeal (for to be a Proteſtant is not to be a lukewarme Laodicean but a fervent profeſſor
+<pb n="32" facs="tcp:64414:20"/>of ſound faith, and Religion) to cut of all occaſions of their increaſe and encouragement, and that they may abate in both, to do what lawfully we may for contracting of their number, and correcting of their humour, and ſpirit, that (notwithſtanding their deſires and deſignes) we may ſtill be happy in a conſtant enjoyment of truth, and peace.</p>
+            <p>Laſtly Comparing what I have written in the precedent letter to the Biſhop, with that I have read in the diſcourſes for <hi>Altars</hi> ſet forth in print (ſince the date thereof though I have intentively peruſed them, I find nothing in them for <hi>Altars</hi> (either in reſpect of name, or thing, or uſe) to alter my judge<g ref="char:EOLhyphen"/>ment for the negative Tenet nor to refute the reaſons, which I have produced to prove it, ſo that to this <hi>Poſtſcript</hi> (to the Reader) I may ſincerely ſubſcribe (as
+<note n="“" place="margin">Mr. Ch. H.</note> a learned friend did to me when I re<g ref="char:EOLhyphen"/>queſted him to preſent my letter to the Biſhop)</p>
+            <closer>
+               <signed>Yours <hi>uſque ad Aras &amp; contra Aras.</hi> JOHN LEY.</signed>
+               <dateline>From my lodging at the ſigne of the <hi>Fountaine</hi> in <hi>Pauls</hi> Church Yard. <date>
+                     <hi>January</hi> 27. 1640.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:64414:20"/>
+         </div>
+      </back>
+   </text>
+</TEI>
